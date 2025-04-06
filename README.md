@@ -4,7 +4,11 @@
     </a>
 </h2>
 <h2 align="center">
+    <br>
+    <br>
    BLOCKCHAIN TECHNOLOGY
+    <br>
+    <br>
 </h2>
 <div align="center">
     <p align="center">
