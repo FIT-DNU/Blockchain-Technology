@@ -5,8 +5,8 @@
 </h2>
 <h2 align="center">
     <br>
-    <br>
    BLOCKCHAIN TECHNOLOGY
+    <br>
     <br>
     <br>
 </h2>
